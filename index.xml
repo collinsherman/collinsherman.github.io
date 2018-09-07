@@ -16,8 +16,26 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://collinsherman.github.io/about/</guid>
-      <description>My Story I am currently a junior at Washington and Lee University, currently working towards a Bachelor of Science degree in Computer Science and a minor in Russian Language and Culture Studies. I am also a captain on the Washington and Lee football team.
-When I have some free time, I love to be outdoors, hanging out with friends. When at my home in Virginia Beach, it doesn&amp;rsquo;t get much better than a day on the beach or at the bay.</description>
+      <description>My Story I am currently a senior at Washington and Lee University, currently working towards a Bachelor of Science degree in Computer Science and a minor in Russian Language and Culture Studies. I am also a captain on the Washington and Lee football team.
+When I have some free time, I love to be outdoors, hanging out with friends. At my home in Virginia Beach, it doesn&amp;rsquo;t get much better than a day on the beach or at the bay.</description>
+    </item>
+    
+    <item>
+      <title>Asteroidz Game</title>
+      <link>https://collinsherman.github.io/portfolio/asteroidz-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://collinsherman.github.io/portfolio/asteroidz-game/</guid>
+      <description>After a couple of low-level, intro projects into Android App development, my partner and I were given two weeks to develop an app of our own. Through some trial and error, we settled on a game (that we later dubbed Asteroidz) in which you would control a spaceship that is along the bottom of the screen. Touching either side of the screen moves the ship back and forth, where you must avoid asteroids to rack up the highest score possible.</description>
+    </item>
+    
+    <item>
+      <title>Bluestone Analytics Internship</title>
+      <link>https://collinsherman.github.io/portfolio/bluestone-analytics-internship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://collinsherman.github.io/portfolio/bluestone-analytics-internship/</guid>
+      <description>I have greatly enjoyed my time with Bluestone so far. As a smaller company, Bluestone has afforded the opportunity to be involved in a great variety of tasks. I have gained experience in and learned basic crptography and security practices, which have proved useful. I have also been able to work with Raspberry Pi devices. I have become skilled in the setup and configuration of these devices to specific needs.</description>
     </item>
     
     <item>
